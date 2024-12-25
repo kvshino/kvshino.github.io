@@ -13,7 +13,7 @@ Feel free to reach out for collaborations, opportunities, or to discuss projects
 - **Phone:** (+39) 3341533875
 - **GitHub:** [github.com/kvshino](https://github.com/kvshino)
 - **Location:** Eboli, Italy
-- **LinkedIn:** [linkedin.com/in/dellortogiuseppemaria](https://www.linkedin.com/in/dellortogiuseppemaria/)
+- **LinkedIn:** [linkedin.com/in/dellortogiuseppemaria](https://it.linkedin.com/in/dellortogiuseppemaria?trk=people-guest_people_search-card)
 
 ## Education
 - **Master's Degree in Computer Engineering**  
