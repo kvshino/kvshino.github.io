@@ -15,7 +15,7 @@ From disassembling electronics during my teenage years to developing advanced en
   University of Salerno, 110/110.  
   Thesis: *Lisa: An iOS Application for Learning Sign Language through Gamification*.  
 
-# Contact Me
+## Contact Me
 
 Feel free to reach out for collaborations, opportunities, or to discuss projects!
 
