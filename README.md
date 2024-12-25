@@ -1,6 +1,4 @@
 # Welcome to my portfolio!
-Questo è il mio spazio personale per condividere i miei progetti e idee.
-
 Hello, I'm Giuseppe, a technology enthusiast with a passion for music, cars, DIY, and smart home automation. I enjoy creating innovative devices, solving problems, and sharing my knowledge through exciting projects.
 
 From disassembling electronics during my teenage years to developing advanced energy management systems, my journey has been all about turning ideas into reality.
